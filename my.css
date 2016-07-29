@@ -1,0 +1,42 @@
+.reveal ul {
+    list-style-type: none;
+}
+
+.kill {
+    text-decoration: line-through;
+}
+
+.reveal p.small {
+    font-size: 70%;
+}
+
+.reveal td:has(.big-arrow) {
+    color: red;
+}
+
+.reveal .big-arrow {
+    font-size: 200%;
+}
+.reveal .prodtable td {
+    width: 40%;
+}
+.reveal .prodtable td+td {
+    width: 10%;
+}
+.reveal .prodtable td+td+td {
+    width: 40%;
+}
+.reveal .prodtable td {
+    vertical-align: middle;
+    text-align: center;
+}
+.reveal .prodtable td p {
+    margin: 0px;
+    padding: 0px;
+}
+.reveal table td[rowspan] {
+    border: 0;
+}
+.big-bg h2 {
+    display: none;
+}
