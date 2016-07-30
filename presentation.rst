@@ -159,6 +159,7 @@ Configuration
 * Non-python
 * Readable (:strike:`JSON`)
 * Validation
+* Bootstrap
 
 
 RPC
