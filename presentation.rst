@@ -1,5 +1,7 @@
 .. role:: fragment
    :class: fragment
+.. role:: strike
+   :class: kill
 
 Microservices :fragment:`from day 1`
 ====================================
@@ -149,6 +151,30 @@ Tools
 1. Configuration
 2. RPC
 3. Supervisor
+
+
+Configuration
+=============
+
+* Non-python
+* Readable (:strike:`JSON`)
+* Validation
+
+
+RPC
+===
+
+* Simple
+* MesssagageBus(???)
+* Validation
+
+
+Supervisor
+==========
+
+* Run all
+* Detect crashes
+* Containers (???)
 
 
 A Link
