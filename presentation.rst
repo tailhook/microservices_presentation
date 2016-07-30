@@ -176,6 +176,7 @@ Supervisor
 * Run all
 * Detect crashes
 * Containers (???)
+* :fragment:`-> vagga`
 
 
 A Link
