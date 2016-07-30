@@ -65,6 +65,14 @@ Quasi-service
 * Common release cycle
 
 
+Quasi-service
+=============
+
+* Small unit
+* Not a microservice
+* Ready to split
+
+
 SPA
 ===
 
